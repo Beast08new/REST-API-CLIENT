@@ -49,4 +49,5 @@ The project is aimed at beginners who want to learn how to work with REST APIs i
 3. Ensure you have Java 11 or higher installed.
 4. Add the Gson dependency to your pom.xml (if using Maven).
 5. Create a Java class named WeatherApp in the src directory.
-6. Copy the
+6. Copy the provided code into the file.
+7. Run the main() method.
