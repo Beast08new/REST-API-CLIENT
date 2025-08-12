@@ -53,3 +53,9 @@ The project is aimed at beginners who want to learn how to work with REST APIs i
 5. Create a Java class named WeatherApp in the src directory.
 6. Copy the provided code into the file.
 7. Run the main() method.
+
+## Output
+
+https://github.com/user-attachments/assets/c1ad3afe-7270-460f-a6af-69d55237881b
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/37edad83-0628-4e8b-bbfb-dd96c82a9031" />
